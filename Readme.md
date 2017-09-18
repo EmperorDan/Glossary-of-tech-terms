@@ -1,4 +1,4 @@
-# Glossary-of-tech-terms
+# SCRUM
 
 intro:
 Scrum is a framework to support teams in complex product development. Scrum consists of Scrum Teams and their associated roles, events, artifacts, and rules. Below are ten commonly used terms used within a scrum.
