@@ -1,11 +1,7 @@
 # Glossary-of-tech-terms
 
 intro:
-
-
-
-scrum 
-(a framework to support teams in complex product development. Scrum consists of Scrum Teams and their associated roles, events, artifacts, and rules.
+Scrum is a framework to support teams in complex product development. Scrum consists of Scrum Teams and their associated roles, events, artifacts, and rules. Below are ten commonly used terms used within a scrum.
 
 1 Daily Scrum: 
 (daily time-boxed event of 15 minutes, or less, for the Development Team to re-plan the next day of development work during a Sprint. Updates are reflected in the Sprint Backlog.)
