@@ -1,4 +1,4 @@
-#Programming Standards
+Programming Standards
 
 1. When writing code I first look at what is required and break it down into smaller peices. After this I create a flowchart that will map the processes i think the computer will go through. The next step is translating this to a programming language.
 
