@@ -14,4 +14,11 @@
 
 - Algorythm: An algorithm is an unambiguous (not open to more than one interpretation) specification of how to solve a class of problems.
 
--
+# Programming Paradigms
+
+- Procedural programming is a programming paradigm, derived from structured programming, based upon the concept of the procedure call. Procedures, also known as routines, subroutines, or functions (not to be confused with mathematical functions, but similar to those used in functional programming), simply contain a series of computational steps to be carried out. Any given procedure might be called at any point during a program's execution, including by other procedures or itself.
+
+- An event-driven program is one that largely responds to user events or other similar input. The concept of event-driven programming is an important one in application development and other kinds of programming, and has spawned the emergence of event handlers and other resources.
+
+- Object-oriented programming (OOP) refers to a type of computer programming (software design) in which programmers define not only the data type of a data structure, but also the types of operations (functions) that can be applied to the data structure.
+In this way, the data structure becomes an object that includes both data and functions. In addition, programmers can create relationships between one object and another. For example, objects can inherit characteristics from other objects.
