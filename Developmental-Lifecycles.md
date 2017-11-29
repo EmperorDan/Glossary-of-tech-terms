@@ -90,14 +90,31 @@ The RAD model is a type of incremental model. The components of this model are s
 
 ## Traditional/Agile
 ### Description:
+#### Agile:
+Agile methodologies, such as the evolutionary model, are more flexible. The aim is to build a functional program quickly. Agile models allow you to go back to previous stages, and change things when necessary. 
+#### Traditional:
+An example of a traditional method is the waterfall model. Traditional methodologies path follows a linear sequential. This makes it difficult to go back and change implementations made in the early stages. 
 
-
+### Comparison:
+- Traditional methodolgies are fixed, and well realised at conception. Whereas agile methodologies are more flexible, allowing more change. 
 ### Advantages:
+#### Agile:
+- Flexibility: Ability to go back and change things realised in the conceptional phase.
+
+#### Traditional:
 
 ### Disadvantages:
+#### Agile:
+
+#### Traditional
 
 ### Software That can benefit:
-0
+#### Agile:
+- Agile methodologies are benefitial to videogames, especially ones rely on user feedback. 
+- Commercial applications, such as shopping apps, use this methodology. They use it to go back and change aspects of there app, based on user feedback.  
+#### Traditional:
+- Traditional methodologies are best suited for engineering-based projects. 
+- They require extensive planning before hand. They must only be used when the final program is well realised at conception.
 
 ## Formal
 ### Description:
