@@ -88,14 +88,18 @@ The RAD model is a type of incremental model. The components of this model are s
 
 ![](https://i.imgur.com/dMzuzjz.png)
 
-## Traditional X Agile
+## Traditional/Agile
 ### Description:
+
+
 ### Advantages:
+
 ### Disadvantages:
+
 ### Software That can benefit:
 0
 
-## Formal / Light formal
+## Formal
 ### Description:
 ### Advantages:
 ### Disadvantages:
