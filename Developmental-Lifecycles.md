@@ -123,3 +123,8 @@ An example of a traditional method is the waterfall model. Traditional methodolo
 ### Software That can benefit:
 0
 
+https://www.scrumalliance.org/community/articles/2013/january/traditional-and-agile-methods-an-interpretation
+https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/
+https://en.wikipedia.org/wiki/Formal_methods
+http://www.dummies.com/programming/four-steps-to-take-before-writing-a-computer-program/
+https://stackoverflow.com/questions/7143806/make-an-image-follow-mouse-pointer
