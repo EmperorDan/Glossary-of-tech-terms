@@ -100,14 +100,18 @@ An example of a traditional method is the waterfall model. Traditional methodolo
 ### Advantages:
 #### Agile:
 - Flexibility: Ability to go back and change things realised in the conceptional phase.
-
+- A working product is created quickly. This methodology uses customer feedback to create a better product.
 #### Traditional:
-
+- Projects using a traditional approach, are usually completed withing budget.
+- Syuitable for mass production. 
 ### Disadvantages:
 #### Agile:
-
-#### Traditional
-
+- In case of some software deliverables, especially the large ones, it is difficult to assess the effort required at the beginning of the software development life cycle.
+- There is lack of emphasis on necessary designing and documentation.
+- The project can easily get taken off track if the customer is not clear what final outcome that they want.
+#### Traditional:
+- lack of customer attention, meaning customer needs not being met.
+- Traditional projects require very large lead time so it has a tendency to fall behind the timetable.
 ### Software That can benefit:
 #### Agile:
 - Agile methodologies are benefitial to videogames, especially ones rely on user feedback. 
@@ -118,13 +122,10 @@ An example of a traditional method is the waterfall model. Traditional methodolo
 
 ## Formal
 ### Description:
+Formal methods are a particular kind of mathematically based techniques for the specification, development and verification of software and hardware systems.
 ### Advantages:
+- 
 ### Disadvantages:
+- 
 ### Software That can benefit:
-0
 
-https://www.scrumalliance.org/community/articles/2013/january/traditional-and-agile-methods-an-interpretation
-https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/
-https://en.wikipedia.org/wiki/Formal_methods
-http://www.dummies.com/programming/four-steps-to-take-before-writing-a-computer-program/
-https://stackoverflow.com/questions/7143806/make-an-image-follow-mouse-pointer
