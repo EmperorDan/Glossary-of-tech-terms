@@ -124,8 +124,13 @@ An example of a traditional method is the waterfall model. Traditional methodolo
 ### Description:
 Formal methods are a particular kind of mathematically based techniques for the specification, development and verification of software and hardware systems.
 ### Advantages:
-- 
+- Discovers ambiguity, incompleteness, and inconsistency in the software.
+- Incrementally grows in effective solution after each iteration.
+- This model does not involve high complexity rate.
+- Formal specification language semantics verify self-consistency.
 ### Disadvantages:
-- 
+- Time consuming and expensive.
+- Extensive training is required to have the essential knowledge to implement this model.
 ### Software That can benefit:
-
+- Mistakes in computer systems can have dire consequences: large monetary damage can occur, or human lives can be endangered. In these cases, the traditional error prevention methods are often insufficient. However, employing formal methods can help to achieve the desired safety level.
+- Formal methods in software engineering are mathematical techniques that are used in the design, implementation and testing of computer systems.
