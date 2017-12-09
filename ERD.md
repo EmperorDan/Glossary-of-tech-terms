@@ -1,7 +1,7 @@
 # ERD
 
 ## Entity Relationship Diagram
-### What it is
+### What is it?
 ER-modeling is a data modeling technique used in software engineering to produce a conceptual data model of a information system. Diagrams created using this ER-modeling technique are called Entity-Relationship Diagrams, or ER diagrams or ERDs. So you can say that Entity Relationship Diagrams illustrate the logical structure of databases.
 
 ### Student, module, course, department scenario.
@@ -13,7 +13,7 @@ each course has a course ID and a title. Also, each course is related to a
 department. Finally, each department has a department ID, a name, and a
 head of the department” 
 
-Below is an example of an ERD. This is drawn from the above scenario:
+### Below is an example of an ERD. This was drawn from the above scenario:
 
 ![]()
 
