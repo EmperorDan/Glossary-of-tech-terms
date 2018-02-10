@@ -2,6 +2,10 @@
 ### Definition
 A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
 
+
+
+
+
 ## Process in building application
 ### Who are your audience?
 This is the most important decision to make as it effects the entire application. Changing mid way can be detrimental to your projects life.
