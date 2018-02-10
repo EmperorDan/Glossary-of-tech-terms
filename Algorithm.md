@@ -20,4 +20,4 @@ Management tools are used during this stage. There are dozens, but a popular met
 ### Beta Testing
 When you have a near-finished version of your product, you want to beta test it. The benefit is the information you gather from the people. This stage will tell you what you need to improve to get better feedback. You may also encounter bugs, and/or glitches that you will then have the opportunity to rectify.  
 ### Release
-You have created your application and must release it. You must still advertise your product, and improve its performance. 
+You have created your application and must release it. You must still advertise your product. Its advisible to look at feedback, and improve upon your application where possible.
