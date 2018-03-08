@@ -1,14 +1,14 @@
-# Procedural paradigms
+# Procedural paradigm
 ## Definition
 
 ## Characteristics
 
-# Object orientated paradigms 
+# Object orientated paradigm
 ## Definition
 
 ## Characteristics
 
-# Event driven paradigms
+# Event driven paradigm
 ## Definition
 
 ## Characteristics
