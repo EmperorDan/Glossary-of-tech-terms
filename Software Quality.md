@@ -1,4 +1,4 @@
-# Software quality
+# Software Quality
 
 ## Scheduled Testing
 Testing is a necessity when programming, as you encounters bugs, and other issues reguarly. Without regular scheduled testing, you run the risk of issues becoming practically unfixable, later in development. A subjective, and reliable way of testing your software would be the use of testers. The most benefitial time being at the start of your project as most issues with software stem from the early stages. Getting this testing in early will allow you the time you need to rectify the issues.
