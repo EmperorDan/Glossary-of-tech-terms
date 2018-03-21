@@ -17,5 +17,5 @@ Event driven programming is centered around user events, and input. User events 
 - Most languages can be used for event driven programming, making it a flexible paradigm.
 - Most modern GUI programs are using event driven programming.
 - Is compatible with a mix of hardware and sensors.
-### How they relate with each other
+#### How they relate with each other
 In the early stages these paradigms share simililarities. Procedral, Event driven, and object driven paradigms all deal with functions. Looking at procedral functions you notice they using a sequential method, when performing a task. Whereas procedral programming has all the instructions from the beginning. They both use functions but event driven programming is often reliant on user interaction to initiate tasks.     
