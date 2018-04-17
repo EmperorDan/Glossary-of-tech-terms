@@ -5,6 +5,8 @@ A process or set of rules to be followed in calculations or other problem-solvin
 #
 
 ## Process in building application
+### Approaching a client
+You must first find your client. This is an important step, as it defines your entire project. After finding a desirable client you must meet with them and discuss their idea. It's very important to remember it's their idea, because you'll most-likely find yourself disagreeing with a few things. Once you've met and discuss the user requirements its time to create a powerpoint showing your intentions and to meet again to finalise certain ideas.  
 ### Who are your audience?
 This is the most important decision to make as it effects the entire application. Changing mid way can be detrimental to your projects life.
 ### High level user stories
@@ -19,3 +21,5 @@ Management tools are used during this stage. There are dozens, but a popular met
 When you have a near-finished version of your product, you want to beta test it. The benefit is the information you gather from the people. This stage will tell you what you need to improve to get better feedback. You may also encounter bugs, and/or glitches that you will then have the opportunity to rectify.  
 ### Release
 You have created your application and must release it. You must still advertise your product. Its advisible to look at feedback, and improve upon your application where possible.
+### Support
+After your applications release you will still need to provide support. This includes updates based on user feedback, this will help keep your app relevant as time goes on. It is also expected to have a support department that users will be able to contact via email, or phone. This will provide you with information on problems that arise over time.
