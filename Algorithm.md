@@ -1,8 +1,9 @@
 ## Algorithm
 ### Definition
-A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
-
-#I ENJOY SMEGMA ALL OVER MY BODY AND ENJOY SHOWERING IN IT
+#### Mathmatics
+process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer. 
+#### Computing Science
+An algorithm in computer science is a set of code that solves a class of problems. The algorithm is not open to interpretation and tries to be simple in design. 
 
 ## Process in building application
 ### Approaching a client
