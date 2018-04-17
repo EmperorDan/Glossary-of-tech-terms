@@ -3,8 +3,7 @@
 #### Mathmatics
 process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer. 
 #### Computing Science
-An algorithm in computer science is a set of code that solves a class of problems. The algorithm is not open to interpretation and tries to be simple in design. 
-
+An algorithm in computer science is a set of code that solves a class of problems. The algorithm is not open to interpretation, and tries to complete its task in the simplest way. 
 ## Process in building application
 ### Approaching a client
 You must first find your client. This is an important step, as it defines your entire project. After finding a desirable client you must meet with them and discuss their idea. It's very important to remember it's their idea, because you'll most-likely find yourself disagreeing with a few things. Once you've met and discuss the user requirements its time to create a powerpoint showing your intentions and to meet again to finalise certain ideas.  
