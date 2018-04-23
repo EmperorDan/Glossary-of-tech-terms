@@ -1,6 +1,6 @@
-Terms relating to Networking
+#Terms relating to Networking
 
-# Networking devices
+## Networking devices
 
 Hubs
 
@@ -32,7 +32,7 @@ Packet shaper
 
 VPN concentrator
 
-# Server types
+## Server types
 
 Web
 
