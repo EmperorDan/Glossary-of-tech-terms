@@ -7,7 +7,7 @@ examples of software that could benefit from each specific lifecycle.
 
 ## Waterfall (Sequential)
 ### Description:
-The waterfall model is a linear sequential flow.  This means software inplementation follows a downward path. The path usually consists of, in order: Requirements, analysis, design, coding, testing, operation. The idea of this cycle is that no process is begun, until the previous has been finished. 
+The waterfall model follows a linear sequential flow.  This means software inplementation follows a downward path (Like a waterfall, coincidentally). The path usually consists of, in order: Requirements, analysis, design, coding, testing, and operation. The idea of this cycle is that no process is begun, until the previous has been finished. This is useful for smaller projects that have a clear idea of what they are developing. And if used correctly usually ensures a robust application. This is due to the fact that you must complete one phase before moving on which means it must be functional. 
 ### Advantages:
 - Very simple to understand, and use.
 - Easily managed due to it following a fixed path.
