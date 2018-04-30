@@ -30,14 +30,17 @@ A V-model is where the execution of processes fall sequentially. It flows sequen
 - Easily managed because you have a clear path to follow.
 ### Disadvantages
 - Can be very risky because you cannot re-visit phases that have been completed.
-- Unusuable for larger/ongoing project 
+  - Unusuable for larger/ongoing project as you aren't able to re-visit previous phases.
+- Not to be used if your product is at risk of changing during development.
+- No working software is produced till the final stages which is a monumental risk.
 ### Software that can benefit
+Developers who have a clear idea of what they want early on will benefit from this. This is because it's not a very flexible model making changes later on to earlier phases impossible. This can be damaging to the product, and developer. If the work done in the early phases isn't correct then the project is vulnerable to failure.   
 
 ![](https://i.imgur.com/RxJrPb5.jpg)
 
 ## Evolutionary (Iterative)
 ### Description:
-The Evolutionary model is iterative. The model allows the user to create increasingly complete version's of their software. This process involves creating a product rapidly. The product is then changed based on maintenance, and reviewal.
+The Evolutionary model is iterative. The model allows the user to create increasingly complete version's of their software. This process involves creating a product rapidly. You must have the requirements and architecture in place. This is so you can produce a functional product for your users. A product undergoes changes periodically based on maintenance checks finding issues, reviewal of product, and feedback from users. 
 ### Advantages:
 - Product better fits customer needs.
 - Allows constant inprovement.
