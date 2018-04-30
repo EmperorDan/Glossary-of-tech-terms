@@ -40,7 +40,7 @@ Developers who have a clear idea of what they want early on will benefit from th
 
 ## Evolutionary (Iterative)
 ### Description:
-The Evolutionary model is iterative. The model allows the user to create increasingly complete version's of their software. This process involves creating a product rapidly. You must have the requirements and architecture in place. This is so you can produce a functional product for your users. A product undergoes changes periodically based on maintenance checks finding issues, reviewal of product, and feedback from users. 
+The Evolutionary model is iterative. The model allows the user to create increasingly complex version's of their software. This process involves creating a product rapidly. You must have the requirements and architecture in place. This is so you can produce a functional product for your users. A product undergoes changes periodically based on maintenance checks finding issues, reviewal of product, and feedback from users. 
 ### Advantages:
 - Product better fits customer needs.
 - Allows constant inprovement.
