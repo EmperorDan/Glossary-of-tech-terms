@@ -57,7 +57,7 @@ Indie Videogame developers can benefit the most from this model. Alot of indie g
 
 ## Spiral (Iterative)
 ### Description:
-The spiral model is more dedicated to risk analysis than others of its type. The model follows four phases: Risk analysis, Engineering and evaluation. The project will go through these phases repeaetably in iterations (called spirals in this model). Every spiral builds off the base spiral.
+The spiral model is more dedicated to risk analysis than others of its type. The model follows four phases: Risk analysis, Engineering and evaluation. The project will go through these phases repeatably in iterations (called spirals in this model). Every spiral builds off the base spiral.
 ### Advantages:
 - Less risk due to high amount of risk analysis.
 - Additional Functionality can be added at a later date.
