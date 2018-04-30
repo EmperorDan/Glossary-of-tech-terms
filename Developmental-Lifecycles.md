@@ -21,6 +21,20 @@ Any software that has a clear undestanding of what their end goal is. The reason
 
 ![](https://i.imgur.com/hRKnJlF.png)
 
+## V Model
+### Description
+A V-model is where the execution of processes fall sequentially. It flows sequentially like the waterfall model. Where it differs is the there are three paths. The reason being because testing is done in parallel, so you cannot move onto the next phase before completing the last one.    
+### Advantages
+- This is a highly disciplined model due to each phase being completed sequentially. This means alot of testing is involved and if it's completed correctly is more robust.
+- This is benefitial to a smaller project, due to the fact you cant go back and edit once you move onto the next phase.
+- Easily managed because you have a clear path to follow.
+### Disadvantages
+- Can be very risky because you cannot re-visit phases that have been completed.
+- Unusuable for larger/ongoing project 
+### Software that can benefit
+
+![](https://i.imgur.com/RxJrPb5.jpg)
+
 ## Evolutionary
 ### Description:
 The Evolutionary model is iterative. The model allows the user to create increasingly complete version's of their software. This process involves creating a product rapidly. The product is then changed based on maintenance, and reviewal.
