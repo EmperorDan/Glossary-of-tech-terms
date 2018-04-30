@@ -1,5 +1,5 @@
 # Explain how user and software Requirements
-software requirements are given to you by the client. When you first meet them they give you information on what they want in thier product. They will give you a brief of the project. After that you must create Epics which you will be central when designing, and programming. You will also break down User Stories into smaller stories to follow while you work, and this will help for debugging. 
+software requirements were given to us by our client ZSL. When we first met with ZSL they gave us information on what they wanted in thier product. They gave us a brief for the project. After reading through it we created Epics which were the central focus while developing our application. We then took our Epics and broke them down into User Stories. To create the user stories we had to keep the epic in mind and break it down into smaller stories such as "as a user i want to learn about the four habitats".
 
 - Epics are what are user wants ultimately. While working with ZSL we were told to make an application to educate children of their carbon footprint. So one epic would be "As a user i want to learn about the effect im having on the environment" The stories are coming from the perspective of the child user and what they want. Epic Stories are normally addressed as milestones for most programmers. 
 
