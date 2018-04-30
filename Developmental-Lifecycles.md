@@ -35,7 +35,7 @@ A V-model is where the execution of processes fall sequentially. It flows sequen
 
 ![](https://i.imgur.com/RxJrPb5.jpg)
 
-## Evolutionary (iterative)
+## Evolutionary (Iterative)
 ### Description:
 The Evolutionary model is iterative. The model allows the user to create increasingly complete version's of their software. This process involves creating a product rapidly. The product is then changed based on maintenance, and reviewal.
 ### Advantages:
@@ -52,7 +52,7 @@ Indie Videogame developers can benefit the most from this model. Alot of indie g
 
 ![](https://i.imgur.com/5EOpPb0.png)
 
-## Spiral (iterative)
+## Spiral (Iterative)
 ### Description:
 The spiral model is more dedicated to risk analysis than others of its type. The model follows four phases: Risk analysis, Engineering and evaluation. The project will go through these phases repeaetably in iterations (called spirals in this model). Every spiral builds off the base spiral.
 ### Advantages:
