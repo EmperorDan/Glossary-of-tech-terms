@@ -9,6 +9,6 @@ Support - During, and after creating a product it is important to have support s
 
 Reliability - It's essential to have failure-free software. The reliability of your product is the most important thing to consider. The more robust your application is the less problems your software encounters the more money, and time, you save.
 
-License and support costs - You must consider costs for software. Annual subscription can be extortionate so its important to find the most cost effective software for your company to use. You want to save money here anything unessecary will impact your profits. You must also consider what your collegues are familiar/comfortable with using. It can be damaging to a team if people within are unfamiliar with a particular software so its important to choose wisely.
+License and support costs - You must consider costs for software. Annual subscription can be extortionate so its important to find the most cost effective software for your company to use. You want to save money here, anything unessecary will impact your profits. You must also consider what your collegues are familiar/comfortable with using. It can be damaging to a team if people within are unfamiliar with a particular software so its important to choose wisely.
 
 Scability - Scalability is your products ability to manage larger or smaller scales of work. This is important because users will all have different demands from your product.
